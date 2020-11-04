@@ -1,6 +1,6 @@
 # InstagramBot
 
-So I have been working on this Instagram Bot for a while now, and it worked really well, but recently Instagram has become a bit more smarter to recognize my bot activities.
+So I have been working on this Instagram bot for a while now, and it worked really well, but recently Instagram has become a bit smarter to recognize my bot activities.
 So this bot is capable of pretty much everything you would like a bot to do.
 Just try it yourself, it is easy to use because it has a kivy GUI.
 This instagram bot uses chrome so you need to have chrome installed on your device and you need to download the chrome driver from https://chromedriver.chromium.org/downloads
